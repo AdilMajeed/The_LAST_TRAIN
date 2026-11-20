@@ -1,0 +1,25 @@
+GAME_STATUS: NOT_STARTED
+
+START_ROOM: PLAYER_SELECTS
+
+initial_energy: 100
+initial_time: 50
+initial_score: 0
+
+max_energy: 100
+max_time: 50
+
+initial_inventory: NONE
+
+passenger_rescued: NO
+cat_rescued: NO
+
+clues_collected: NONE
+cabinet_unlocked: NO
+train_key_collected: NO
+
+fuse_installed: NO
+lift_pass_collected: NO
+
+train_prepared: NO
+player_at_train: NO
